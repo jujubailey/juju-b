@@ -1,0 +1,17 @@
+.p {
+  font-family: "Times New Roman", Times, serif;
+}
+
+body {
+  background-color: black;
+}
+h1{
+  color: white;
+}
+h2{
+  color:#808080;
+}
+
+container { box-sizing: border-box 
+    
+}
